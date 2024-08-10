@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "AgberoDev/index.html"
+to = "/index.html"
 <<<<<<< HEAD
 status = 200;
 =======
